@@ -1,0 +1,8 @@
+{
+  "name": "Anti Bored Ape Yacht Club",
+  "description": "Meet your antimatters, Bored Ape Yacht Club.",
+  "image": "https://raw.githubusercontent.com/AntiBoredApeYC/AntiBoredApeYC/main/profile.png",
+  "external_link": "https://opensea.io/collection/antiboredapeyachtclub",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0xbD4A0A4EF631Dbb4608D32022dF657D70E220462"
+}
